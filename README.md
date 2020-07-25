@@ -1,6 +1,6 @@
 # Knowledge Base UI 
 
-User Interface for viewing my Zettelkasten notes, built with
+User Interface for viewing my [Knowledge Base](https://github.com/thesofakillers/knowledge-base), built with
 [Jekyll](https://jekyllrb.com/) using a modified version of the [digital-garden
 template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 
