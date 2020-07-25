@@ -10,7 +10,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     all_notes.each do |current_note|
 			# Nodes: Jekyll
       notes_linking_to_current_note = all_notes.filter do |e|
-        e.content.include?(current_note.url)
+        e.content.include?(note_id_from_note(current_note))
       end
 
       # Nodes for D3JS Graph
@@ -39,9 +39,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     }))
   end
 
-  # extracts the note's id from it's url by removing the forward slash
-  # assuming that the file name (minus the extension) is the note's id.
   def note_id_from_note(note)
-    note.url[1..-1]
+    note.data['id']
   end
 end
