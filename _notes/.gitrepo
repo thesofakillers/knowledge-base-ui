@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:thesofakillers/knowledge-base.git
+	branch = master
+	commit = 3a46473ed137787eb3b74fc32439e9d75d63bb7b
+	parent = 058752958283fd9336887ed6c74a914c1ad14bf9
+	method = merge
+	cmdver = 0.4.1
