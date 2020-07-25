@@ -1,0 +1,1 @@
+{"edges":[{"source":"your-first-note","target":"cats"},{"source":"consistency","target":"your-first-note"}],"nodes":[{"id":"cats","path":"/cats","label":"A note about cats"},{"id":"consistency","path":"/consistency","label":"Consistency is key"},{"id":"your-first-note","path":"/your-first-note","label":"Your first seed"}]}
