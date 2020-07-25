@@ -1,11 +1,11 @@
 title:               My digital garden
-include:             ['_pages']
 
 permalink:           pretty
 
 plugins:
-  - jekyll-last-modified-at
   - jekyll-relative-links
+  - jekyll-redirect-from
+
 sass:
   sass_dir:          _sass
   style:            :compressed
@@ -21,7 +21,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "_notes/**/*.md"
+      path: "**/*.md"
     values:
       layout: "note"
 
