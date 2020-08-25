@@ -1,14 +1,14 @@
-title:              Giulio's Zettelkasten 
+title: Giulio's Zettelkasten
 
-permalink:           pretty
+permalink: pretty
 
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 collections:
   notes:
@@ -26,5 +26,5 @@ defaults:
       layout: "note"
 
 relative_links:
-  enabled:     true
+  enabled: true
   collections: true
