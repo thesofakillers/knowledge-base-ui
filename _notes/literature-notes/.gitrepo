@@ -4,9 +4,9 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = git@github.com:thesofakillers/knowledge-base.git
+	remote = git@github.com:thesofakillers/literature-notes.git
 	branch = master
-	commit = f68e8b831fd4e8fdc737ce6095cc919ad25028d8
-	parent = 428525f4969a8ab8476bb7f1d8fd66edaaef7278
+	commit = ddbf8f854e13bb2e18811b680b2fa1c969dafc0a
+	parent = 8efc984500574ca48452c98cfd926d59f3eae463
 	method = merge
 	cmdver = 0.4.1
