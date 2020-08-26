@@ -5,6 +5,7 @@ permalink: pretty
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
+  - jekyll-pandoc
 
 sass:
   sass_dir: _sass
@@ -24,6 +25,12 @@ defaults:
       path: "**/*.md"
     values:
       layout: "note"
+
+markdown: Pandoc
+
+pandoc:
+  extensions:
+    - bibliography: _notes/literature-notes/references.bib
 
 relative_links:
   enabled: true
