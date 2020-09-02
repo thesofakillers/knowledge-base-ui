@@ -1,8 +1,8 @@
----
-title: Machine Learning for Precipitation Nowcasting from Radar Images
-author(s): Agrawal et al
-year: 2019
----
++++
+title = "Machine Learning for Precipitation Nowcasting from Radar Images"
+authors = "Agrawal et al"
+year = "2019"
++++
 
 - Need to process large amounts of data at _low latency_. This spec is well
   suited for machine learning, while traditional approaches tend to rely on:

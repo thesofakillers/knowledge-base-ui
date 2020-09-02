@@ -1,8 +1,8 @@
----
-title: Optical Turbulence
-author(s): Hagelin et al
-year: "-"
----
++++
+title = "Optical Turbulence"
+authors = "Hagelin et al"
+year = "-"
++++
 
 Optical Turbulence is a small-scale phenomenon wherein incoming wavefronts from
 distant stars are perturbed when passing through our atmosphere due to
