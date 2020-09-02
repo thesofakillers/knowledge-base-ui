@@ -38,6 +38,6 @@ relative_links:
   collections: true
 
 jekyll_analytics:
-  GoogleAnalytics: 
-    id: UA-143281261-2 
+  GoogleAnalytics:
+    id: UA-143281261-2
     anonymizeIp: false
