@@ -52,4 +52,7 @@
       {{ page.title }} &mdash; {{ site.title }}
     {% endif %}
   </title>
+  {% if jekyll.environment == 'production' % and site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
