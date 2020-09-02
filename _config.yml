@@ -6,6 +6,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
   - jekyll-pandoc
+  - jekyll-analytics
 
 sass:
   sass_dir: _sass
@@ -35,3 +36,8 @@ pandoc:
 relative_links:
   enabled: true
   collections: true
+
+jekyll_analytics:
+  GoogleAnalytics: 
+    id: UA-143281261-2 
+    anonymizeIp: false
