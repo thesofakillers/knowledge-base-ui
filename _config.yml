@@ -30,6 +30,7 @@ markdown: Pandoc
 
 pandoc:
   extensions:
+    - csl: _notes/literature-notes/institute-of-mathematical-statistics.csl
     - bibliography: _notes/literature-notes/references.bib
 
 relative_links:
