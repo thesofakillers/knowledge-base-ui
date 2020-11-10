@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:thesofakillers/knowledge-base.git
 	branch = master
-	commit = 9f731f70bd128f1c5c960f647df5d26c2c4846d2
-	parent = eee5e145ee33caf0baeb6b30b59988ef5fd38d52
+	commit = 7268c593475e6b40711e4a2e09cbe1947581609c
+	parent = 3fc186754c7377ace8562c020ca10e68c549ffe8
 	method = merge
 	cmdver = 0.4.1
