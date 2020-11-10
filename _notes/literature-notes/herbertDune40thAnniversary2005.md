@@ -93,6 +93,12 @@ The Baron survives the Duke's gas trap via his shield and Piter's gasp.
 
 The Sardaukar, i.e. the emperor, collaborate with the Harkonnens for the elimination of the Atreides from Arrakis. [Why did the emperor send the Atreides to Arrakis, just have them removed by the Harkonnens?](https://scifi.stackexchange.com/questions/15057/why-did-the-emperor-send-the-atreides-to-arrakis-then-the-sardaukar-to-remove-t) To protect his power and control. Politics. Plots within plots. 
 
+Paul and His mother Jessica are in hiding in the desert with assistance of Duncan Idaho, who's rendezvous they are awaiting. During this waiting period, due to the spice he has been exposed during his stay in Arrakis and his mentat and bene gesserit training, Paul develops quasi-omniescence, and is able to see clearly throughout time (although not completely). He reveals to Jessica that she is the daughter of Baron Harkonnen, which makes him his grandson. 
+
+Paul tells Jessica that he is not the Kwisatz Hedirach as described by the Bene Gesserit order, but something else, unexpected: the Muad'Dib
+
+Paul and Jessica are stuck on Arrakis given the addictive nature of the spice. 
+
 ## Interesting Quotes
 
 - "Humans are almost always lonely" p47
@@ -103,3 +109,4 @@ The Sardaukar, i.e. the emperor, collaborate with the Harkonnens for the elimina
   what uncouples him from belief in his own pretensions. The sardonic is all that permits him to move within
   himself. Without this quality, even occasional greatness will destroy a man." p267
 - "The natural human's an animal without logic." p319
+- "Mood'a a thing for castle or for making love. You fight when the necessity arises, no matter your mood." p393
