@@ -16,4 +16,4 @@ Write
 EOF
 
 
-vim '+call cursor(3,8)' ./$iddate.md 
+nvim '+call cursor(3,8)' ./$iddate.md 
